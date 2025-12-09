@@ -1,6 +1,4 @@
-"""
-Pydantic models for request/response validation
-"""
+
 
 from typing import List, Optional
 from pydantic import BaseModel, Field
